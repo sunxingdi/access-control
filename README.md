@@ -116,3 +116,9 @@ consumeScheduledOp(caller, data)：使用针对调用者的计划操作。
 hashOperation(caller, target, data)：用于延迟操作的哈希函数。
 updateAuthority(target, newAuthority)：更改此管理器实例管理的目标的权限。
 ```
+
+### 参考文档
+
+[OpenZeppelin Access API](https://docs.openzeppelin.com/contracts/5.x/api/access)
+
+[OpenZeppelin Access Control](https://docs.openzeppelin.com/contracts/5.x/access-control)
